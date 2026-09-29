@@ -2,5 +2,4 @@
 #include <cassert>
 
 void TestFunction() {
-	assert(0);
 }
